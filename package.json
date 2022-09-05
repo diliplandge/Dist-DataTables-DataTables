@@ -1,5 +1,5 @@
 {
-    "name": "jquery-datatable",
+    "name": "datatables.net-dt",
     "description": "DataTables for jQuery with styling for [DataTables](https://datatables.net/)",
     "main": "js/dataTables.dataTables.js",
     "style": "css/jquery.dataTables.css",
